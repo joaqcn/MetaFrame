@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Ash",
+        "image": "https://wiki.warframe.com/images/thumb/Ash_PrimeIcon272.png/64px-Ash_PrimeIcon272.png?16639"
+    },
+    {
+        "name": "Atlas",
+        "image": "https://wiki.warframe.com/images/thumb/Atlas_PrimeIcon272.png/64px-Atlas_PrimeIcon272.png?f7e81"
+    },
+    {
+        "name": "Banshee",
+        "image": "https://wiki.warframe.com/images/thumb/Banshee_PrimeIcon272.png/64px-Banshee_PrimeIcon272.png?78109"
+    },
+    {
+        "name": "Baruuk",
+        "image": "https://wiki.warframe.com/images/thumb/BaruukPrimeIcon272.png/64px-BaruukPrimeIcon272.png?0169d"
+    },
+    {
+        "name": "Chroma",
+        "image": "https://wiki.warframe.com/images/thumb/Chroma_PrimeIcon272.png/64px-Chroma_PrimeIcon272.png?1c562"
+    },
+    {
+        "name": "Ember",
+        "image": "https://wiki.warframe.com/images/thumb/Ember_PrimeIcon272.png/64px-Ember_PrimeIcon272.png?ae59a"
+    },
+    {
+        "name": "Equinox",
+        "image": "https://wiki.warframe.com/images/thumb/EquinoxPrimeIcon.png/64px-EquinoxPrimeIcon.png?c4389"
+    },
+    {
+        "name": "Excalibur",
+        "image": "https://wiki.warframe.com/images/thumb/Excalibur_PrimeIcon272.png/64px-Excalibur_PrimeIcon272.png?38612"
+    },
+    {
+        "name": "Frost",
+        "image": "https://wiki.warframe.com/images/thumb/Frost_PrimeIcon272.png/64px-Frost_PrimeIcon272.png?fad9e"
+    },
+    {
+        "name": "Gara",
+        "image": "https://wiki.warframe.com/images/thumb/GaraPrimeIcon.png/64px-GaraPrimeIcon.png?bb01b"
+    },
+    {
+        "name": "Garuda",
+        "image": "https://wiki.warframe.com/images/thumb/GarudaPrimeIcon.png/64px-GarudaPrimeIcon.png?5ad85"
+    },
+    {
+        "name": "Gauss",
+        "image": "https://wiki.warframe.com/images/thumb/GaussPrimeIcon272.png/64px-GaussPrimeIcon272.png?3bc86"
+    },
+    {
+        "name": "Grendel",
+        "image": "https://wiki.warframe.com/images/thumb/GrendelPrimeIcon272.png/64px-GrendelPrimeIcon272.png?34e22"
+    },
+    {
+        "name": "Harrow",
+        "image": "https://wiki.warframe.com/images/thumb/HarrowPrimeIcon.png/64px-HarrowPrimeIcon.png?6d842"
+    },
+    {
+        "name": "Hildryn",
+        "image": "https://wiki.warframe.com/images/thumb/HildrynPrimeIcon272.png/64px-HildrynPrimeIcon272.png?aeda8"
+    },
+    {
+        "name": "Hydroid",
+        "image": "https://wiki.warframe.com/images/thumb/Hydroid_PrimeIcon272.png/64px-Hydroid_PrimeIcon272.png?7883d"
+    },
+    {
+        "name": "Inaros",
+        "image": "https://wiki.warframe.com/images/thumb/InarosPrimeIcon272.png/64px-InarosPrimeIcon272.png?29b46"
+    },
+    {
+        "name": "Ivara",
+        "image": "https://wiki.warframe.com/images/thumb/Ivara_PrimeIcon272.png/64px-Ivara_PrimeIcon272.png?92fe5"
+    },
+    {
+        "name": "Khora",
+        "image": "https://wiki.warframe.com/images/thumb/KhoraPrimeIcon272.png/64px-KhoraPrimeIcon272.png?2c124"
+    },
+    {
+        "name": "Lavos",
+        "image": "https://wiki.warframe.com/images/thumb/LavosPrimeIcon272.png/64px-LavosPrimeIcon272.png?2a127"
+    },
+    {
+        "name": "Limbo",
+        "image": "https://wiki.warframe.com/images/thumb/Limbo_PrimeIcon272.png/64px-Limbo_PrimeIcon272.png?5231a"
+    },
+    {
+        "name": "Loki",
+        "image": "https://wiki.warframe.com/images/thumb/Loki_PrimeIcon272.png/64px-Loki_PrimeIcon272.png?c5cdb"
+    },
+    {
+        "name": "Mag",
+        "image": "https://wiki.warframe.com/images/thumb/Mag_PrimeIcon272.png/64px-Mag_PrimeIcon272.png?504bb"
+    },
+    {
+        "name": "Mesa",
+        "image": "https://wiki.warframe.com/images/thumb/MesaPrimeIcon272.png/64px-MesaPrimeIcon272.png?22ea2"
+    },
+    {
+        "name": "Mirage",
+        "image": "https://wiki.warframe.com/images/thumb/Mirage_PrimeIcon272.png/64px-Mirage_PrimeIcon272.png?9fbc7"
+    },
+    {
+        "name": "Nekros",
+        "image": "https://wiki.warframe.com/images/thumb/Nekros_PrimeIcon272.png/64px-Nekros_PrimeIcon272.png?f64cc"
+    },
+    {
+        "name": "Nezha",
+        "image": "https://wiki.warframe.com/images/thumb/NezhaPrimeIcon272.png/64px-NezhaPrimeIcon272.png?70638"
+    },
+    {
+        "name": "Nidus",
+        "image": "https://wiki.warframe.com/images/thumb/NidusPrimeIcon272.png/64px-NidusPrimeIcon272.png?dba88"
+    },
+    {
+        "name": "Nova",
+        "image": "https://wiki.warframe.com/images/thumb/Nova_PrimeIcon272.png/64px-Nova_PrimeIcon272.png?c9142"
+    },
+    {
+        "name": "Nyx",
+        "image": "https://wiki.warframe.com/images/thumb/Nyx_PrimeIcon272.png/64px-Nyx_PrimeIcon272.png?fb27d"
+    },
+    {
+        "name": "Oberon",
+        "image": "https://wiki.warframe.com/images/thumb/Oberon_PrimeIcon272.png/64px-Oberon_PrimeIcon272.png?2dfad"
+    },
+    {
+        "name": "Octavia",
+        "image": "https://wiki.warframe.com/images/thumb/OctaviaPrimeIcon64.png/64px-OctaviaPrimeIcon64.png?3a05b"
+    },
+    {
+        "name": "Protea",
+        "image": "https://wiki.warframe.com/images/thumb/ProteaPrimeIcon272.png/64px-ProteaPrimeIcon272.png?cbc0c"
+    },
+    {
+        "name": "Revenant",
+        "image": "https://wiki.warframe.com/images/thumb/RevenantPrimeIcon272.png/64px-RevenantPrimeIcon272.png?23c48"
+    },
+    {
+        "name": "Rhino",
+        "image": "https://wiki.warframe.com/images/thumb/Rhino_PrimeIcon272.png/64px-Rhino_PrimeIcon272.png?d3cbc"
+    },
+    {
+        "name": "Saryn",
+        "image": "https://wiki.warframe.com/images/thumb/Saryn_PrimeIcon272.png/64px-Saryn_PrimeIcon272.png?1b8f1"
+    },
+    {
+        "name": "Sevagoth",
+        "image": "https://wiki.warframe.com/images/thumb/SevagothPrimeIcon272.png/64px-SevagothPrimeIcon272.png?96707"
+    },
+    {
+        "name": "Titania",
+        "image": "https://wiki.warframe.com/images/thumb/TitaniaPrimeIcon272.png/64px-TitaniaPrimeIcon272.png?d975c"
+    },
+    {
+        "name": "Trinity",
+        "image": "https://wiki.warframe.com/images/thumb/Trinity_PrimeIcon272.png/64px-Trinity_PrimeIcon272.png?ffabe"
+    },
+    {
+        "name": "Valkyr",
+        "image": "https://wiki.warframe.com/images/thumb/Valkyr_PrimeIcon272.png/64px-Valkyr_PrimeIcon272.png?5e37b"
+    },
+    {
+        "name": "Vauban",
+        "image": "https://wiki.warframe.com/images/thumb/Vauban_PrimeIcon272.png/64px-Vauban_PrimeIcon272.png?652ef"
+    },
+    {
+        "name": "Volt",
+        "image": "https://wiki.warframe.com/images/thumb/Volt_PrimeIcon272.png/64px-Volt_PrimeIcon272.png?fb2ce"
+    },
+    {
+        "name": "Wisp",
+        "image": "https://wiki.warframe.com/images/thumb/WispPrimeIcon272.png/64px-WispPrimeIcon272.png?6ed69"
+    },
+    {
+        "name": "Wukong",
+        "image": "https://wiki.warframe.com/images/thumb/Wukong_PrimeIcon272.png/64px-Wukong_PrimeIcon272.png?01a82"
+    },
+    {
+        "name": "Xaku",
+        "image": "https://wiki.warframe.com/images/thumb/XakuPrimeIcon272.png/64px-XakuPrimeIcon272.png?81384"
+    },
+    {
+        "name": "Zephyr",
+        "image": "https://wiki.warframe.com/images/thumb/Zephyr_PrimeIcon272.png/64px-Zephyr_PrimeIcon272.png?dce25"
+    }
+]
